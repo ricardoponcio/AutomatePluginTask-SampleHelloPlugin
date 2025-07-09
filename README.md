@@ -2,7 +2,7 @@
 
 ## Example Plugin for Automate Plugin Task
 
-This project is an example implementation of a plugin using the [PluginSDK](../PluginSdk/README.md) for the Automate Plugin Task Engine.
+This project is an example implementation of a plugin using the [PluginSDK](https://github.com/ricardoponcio/AutomatePluginTask-PluginSdk) for the Automate Plugin Task Engine.
 
 ---
 
@@ -133,7 +133,8 @@ public class SampleHelloPlugin extends AbstractPluginTask {
 
 ## References
 
-- [PluginSDK README](../PluginSdk/README.md)
+- [PluginSDK README](https://github.com/ricardoponcio/AutomatePluginTask-PluginSdk)
+- [Main Repository](https://github.com/ricardoponcio/AutomatePluginTask)
 
 ---
 
